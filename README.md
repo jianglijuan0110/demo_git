@@ -67,6 +67,8 @@ git remote -v
 ```bash
 git remote add github https://github.com/votre_utilisateur/votre_projet.git
 git push -u github main
+git remote add all https://forge.ird.fr/espace-dev/personnels/jiang/demo_git.git
+
 # Push changes to GitHub
 git push github main
 
