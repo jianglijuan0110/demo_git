@@ -63,3 +63,7 @@ git push -u origin main
 git remote -v
 ```
 - Verify that the fetch and push URLs are in the SSH format.
+- If you want to add another remote for GitHub, here's how you can proceed:
+```bash
+git remote add github https://github.com/votre_utilisateur/votre_projet.git
+```
