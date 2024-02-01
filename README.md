@@ -66,6 +66,7 @@ git remote -v
 - If you want to add another remote for GitHub, here's how you can proceed:
 ```bash
 git remote add github https://github.com/votre_utilisateur/votre_projet.git
+git push -u github main
 # Push changes to both GitHub and Forge remotes
 git push --all
 
