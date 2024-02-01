@@ -28,6 +28,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706796999530</updated>
-      <workItem from="1706797001068" duration="2525000" />
+      <workItem from="1706797001068" duration="3001000" />
     </task>
     <task id="LOCAL-00001" summary="test initial commit">
       <option name="closed" value="true" />
