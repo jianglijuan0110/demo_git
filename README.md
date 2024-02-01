@@ -67,6 +67,12 @@ git remote -v
 ```bash
 git remote add github https://github.com/votre_utilisateur/votre_projet.git
 git push -u github main
+# Push changes to GitHub
+git push github main
+
+# Push changes to Forge
+git push origin main
+
 # Push changes to both GitHub and Forge remotes
 git push --all
 
